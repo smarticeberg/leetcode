@@ -37,8 +37,8 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|Easy|[#27](/src/main/resources/documents/27.md)|1||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|[#28](/src/main/resources/documents/28.md)|2||
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|Medium|[#29](/src/main/resources/documents/29.md)|2||
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|Hard|[#30](/src/main/resources/documents/30.md)|0||
-|31|Next Permutation|Medium|#31|0||
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|Hard|[#30](/src/main/resources/documents/30.md)|2||
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|[#31](/src/main/resources/documents/31.md)|0||
 |32|Longest Valid Parentheses|Hard|#32|0||
 |33|Search in Rotated Sorted Array|Medium|#33|0||
 |34|Search for a Range|Medium|#34|0||
