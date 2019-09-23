@@ -39,9 +39,9 @@
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|Medium|[#29](/src/main/resources/documents/29.md)|2||
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|Hard|[#30](/src/main/resources/documents/30.md)|2||
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|[#31](/src/main/resources/documents/31.md)|0||
-|32|Longest Valid Parentheses|Hard|#32|0||
-|33|Search in Rotated Sorted Array|Medium|#33|0||
-|34|Search for a Range|Medium|#34|0||
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Hard|[#32](/src/main/resources/documents/32.md)|0||
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|[#33](/src/main/resources/documents/33.md)|0||
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|[#34](/src/main/resources/documents/34.md)|0||
 |35|Search Insert Position|Easy|#35|0||
 |36|Valid Sudoku|Medium|#36|0||
 |37|Sudoku Solver|Hard|#37|0||
