@@ -44,17 +44,17 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|[#34](/src/main/resources/documents/34.md)|0||
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|[#35](/src/main/resources/documents/35.md)|0||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|[#36](/src/main/resources/documents/36.md)|0||
-|37|Sudoku Solver|Hard|[#37](/src/main/resources/documents/37.md)|0||
-|38|Count and Say|Easy|[#38](/src/main/resources/documents/38.md)|0||
-|39|Combination Sum|Medium|[#39](/src/main/resources/documents/39.md)|0||
-|40|Combination Sum II|Medium|[#40](/src/main/resources/documents/40.md)|0||
-|41|First Missing Positive|Hard|[#41](/src/main/resources/documents/41.md)|0||
-|42|Trapping Rain Water |Hard|[#42](/src/main/resources/documents/42.md)|0||
-|43|Multiply Strings|Medium|[#43](/src/main/resources/documents/43.md)|0||
-|44|Wildcard Matching |Hard|[#44](/src/main/resources/documents/44.md)|0||
-|45|Jump Game II|Hard|[#45](/src/main/resources/documents/45.md)|0||
-|46|Permutations|Medium|[#46](/src/main/resources/documents/46.md)|0||
-|47|Permutations II|Medium|[#47](/src/main/resources/documents/47.md)|0||
-|48|Rotate Image|Medium|[#48](/src/main/resources/documents/48.md)|0||
-|49|Group Anagrams|Medium|[#49](/src/main/resources/documents/49.md)|0||
-|50|Pow(x, n)|Medium|[#50](/src/main/resources/documents/50.md)|0||
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|Hard|[#37](/src/main/resources/documents/37.md)|0||
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|Easy|[#38](/src/main/resources/documents/38.md)|0||
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|[#39](/src/main/resources/documents/39.md)|0||
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium|[#40](/src/main/resources/documents/40.md)|0||
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard|[#41](/src/main/resources/documents/41.md)|0||
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |Hard|[#42](/src/main/resources/documents/42.md)|0||
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|[#43](/src/main/resources/documents/43.md)|0||
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) |Hard|[#44](/src/main/resources/documents/44.md)|0||
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Hard|[#45](/src/main/resources/documents/45.md)|0||
+|46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[#46](/src/main/resources/documents/46.md)|0||
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Medium|[#47](/src/main/resources/documents/47.md)|0||
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium|[#48](/src/main/resources/documents/48.md)|0||
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|[#49](/src/main/resources/documents/49.md)|0||
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|[#50](/src/main/resources/documents/50.md)|0||
